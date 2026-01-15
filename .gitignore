@@ -28,3 +28,7 @@ Thumbs.db
 
 # Docker
 *.log
+.docker/
+
+# GitHub Actions
+.github/workflows/*.yml.bak
